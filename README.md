@@ -2,9 +2,11 @@
 Photon is an esolang. In it, each command takes the same format. Here it is, expressed in regex: \[[#:].,[#:].>.\]. Basically, it goes like this:<br/>
 [(a # or a :)(a character),(a # or a :)(a character)>(a character)]<br/>
 To run Photon, do the following:<br/>
--Run main.py. You should see a list of files.
--Type a filename or type "help".
--Watch.
+<ul>
+  <li>Run main.py. You should see a list of files.</li>
+  <li>Type a filename or type "help".</li>
+  <li>Watch.</li>
+ </ul>
 The following is just the contents of the help guide. If, at the prompt, you type "help", you will get the same thing.
 <pre>
 PHOTON ESOTERIC LANGAGE - HELP
