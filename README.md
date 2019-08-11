@@ -1,5 +1,11 @@
 # Photon
-Photon is an esolang. This readme is just the contents of the help guide. If, at the prompt, you type "help", you will get the same thing.
+Photon is an esolang. In it, each command takes the same format. Here it is, expressed in regex: \[[#:].,[#:].>.\]. Basically, it goes like this:<br/>
+[(a # or a :)(a character),(a # or a :)(a character)>(a character)]<br/>
+To run Photon, do the following:<br/>
+-Run main.py. You should see a list of files.
+-Type a filename or type "help".
+-Watch.
+The following is just the contents of the help guide. If, at the prompt, you type "help", you will get the same thing.
 <pre>
 PHOTON ESOTERIC LANGAGE - HELP
 o=================o
@@ -60,3 +66,4 @@ Assign the result to variable 1:
 [:1,:$>=]
 o=================o
 Photon not © or ™ or ® 2019 by sugarfi
+</pre>
