@@ -63,9 +63,9 @@ The interpreter will ignore instructions outside of them. The following will not
 INVALID INPUT WILL BE IGNORED!
 Input not matching the regex \[[#:].,[#:].>.\] will be ignored and not run.
 This is how you would comment things. No // or #. Just type them, like so:
-[#5,#6>+]
-Assign the result to variable 1:
-[:1,:$>=]
+1. [#5,#6>+]
+2. Assign the result to variable 1:
+3. [:1,:$>=]
 o=================o
 Photon not © or ™ or ® 2019 by sugarfi
 </pre>
