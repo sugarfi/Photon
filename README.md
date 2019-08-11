@@ -1,5 +1,6 @@
 # Photon
 Photon is an esolang. This readme is just the contents of the help guide. If, at the prompt, you type "help", you will get the same thing.
+<pre>
 PHOTON ESOTERIC LANGAGE - HELP
 o=================o
 1. Introduction
