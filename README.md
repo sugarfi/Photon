@@ -48,7 +48,7 @@ The variable :1 now has the value 12.
 [#/:(a),#/:(b)>/] - Division.
 [:-,:->.] - Clear all variables and set $ to 0.
 [#/:(a),:->_] - Print the value of a.
-[#/:(a),:->_] - Print the ascii char of a.
+[#/:(a),:->@] - Print the ascii char of a.
 [:-,:->~] - Print a newline.
 [:(a),:->?] - Read keyboard input, and assign the first character as an integer to variable a.
 [#/:(a),:->^] - Goto line a (0 = first line).
